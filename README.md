@@ -54,6 +54,8 @@ Normalization
 
 Data augmentation (if applied)
 
+
+
 🔍 Model Architecture
 
 Pre-trained CNN base model (Transfer Learning)
@@ -76,6 +78,8 @@ Adam
 
 Evaluation Metric:
 
+
+
 Accuracy
 📊 Training Process
 
@@ -93,6 +97,8 @@ Validate using validation dataset
 
 Plot accuracy and loss graphs
 
+
+
 📈 Results
 
 Achieved high classification accuracy
@@ -101,8 +107,8 @@ Transfer learning significantly reduced training time
 
 Model generalizes well on unseen data
 
-(You can add your final accuracy here like:
-Final Validation Accuracy: 94%)
+
+
 
 🖼 Sample Output
 
@@ -117,6 +123,8 @@ Deploy model using Flask / Streamlit
 
 Convert to web app
 Accuracy & Loss graphs plotted after training
+
+
 
 💡 Why Transfer Learning?
 
